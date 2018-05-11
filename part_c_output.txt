@@ -1,0 +1,72 @@
+Value of Learned Parameters in case of Linear Hypothesis
+theta 0 : 1.5675670952e-16
+theta 1 : 0.0428972512372
+theta 2 : 0.0281188977059
+theta 3 : 0.044663781221
+theta 4 : 0.48161542781
+
+
+
+
+Value of Learned Parameters in case of Quadratic Hypothesis
+theta 0 : -8.91055443734e-17
+theta 1 : 0.0669486086992
+theta 2 : -0.0110708314006
+theta 3 : -0.0309019306183
+theta 4 : -0.245189134173
+theta 5 : -0.0197662655199
+theta 6 : 0.0749403888499
+theta 7 : -0.0475269815795
+theta 8 : -0.0478444057821
+theta 9 : -0.0787592693053
+theta 10 : 0.244232611858
+theta 11 : -0.077696722932
+theta 12 : -0.0104011899354
+theta 13 : -0.0818824345966
+theta 14 : 0.850062795901
+
+
+
+
+Value of Learned Parameters in case of Cubic Hypothesis
+theta 0 : 2.97155482389e-17
+theta 1 : -0.0219139775169
+theta 2 : -0.0185175841757
+theta 3 : 0.0134567585392
+theta 4 : 0.0093001220319
+theta 5 : -0.0557785815968
+theta 6 : 0.0443758892054
+theta 7 : 0.0384925069567
+theta 8 : 0.167117423321
+theta 9 : -0.0298173907605
+theta 10 : 0.131810325923
+theta 11 : -0.130807148946
+theta 12 : 0.0397234639051
+theta 13 : 0.0309668528689
+theta 14 : 0.346236758823
+theta 15 : 0.0896886231316
+theta 16 : 0.00120535426524
+theta 17 : -0.0808003062688
+theta 18 : 0.00996859854375
+theta 19 : 0.0490481102874
+theta 20 : -0.013675309361
+theta 21 : -0.0156282458088
+theta 22 : -0.0112397396566
+theta 23 : -0.0252908491713
+theta 24 : -0.159978757602
+theta 25 : 0.00862432948999
+theta 26 : 0.152150703707
+theta 27 : -0.180332552177
+theta 28 : 0.123080576546
+theta 29 : -0.03878468213
+theta 30 : 0.101331294583
+theta 31 : 0.0493904515262
+theta 32 : -0.310970576025
+theta 33 : -0.0901331408838
+theta 34 : 0.457929578481
+
+
+
+
+For the datset problrm we should use cubic or quadratic hypothesis beacuse tehy yeild lower value of rmse. 
+Please refer plots for reference

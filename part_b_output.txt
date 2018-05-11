@@ -1,0 +1,23 @@
+Value of Learned Parameters in case of  Gradient descent
+theta 0 : 1.56715609177e-16
+theta 1 : 0.0428972512435
+theta 2 : 0.0281188977431
+theta 3 : 0.04466378126
+theta 4 : 0.481615427748
+
+
+
+
+Value of Learned Parameters in case of IRLS
+theta 0 : 1.58727198052e-16
+theta 1 : 0.0428972510734
+theta 2 : 0.0281188967372
+theta 3 : 0.0446637802045
+theta 4 : 0.481615429446
+
+
+
+
+We should use IRLS in cases where the dataset size is not large otherwise the computation cost for computing the value of the weights will be enormous
+In cases where the dataset is failrly large we should use gradient descent. 
+

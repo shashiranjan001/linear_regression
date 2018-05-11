@@ -1,0 +1,17 @@
+Value of Learned Parameters in case of non-regularized Gradient descent
+theta 0 : 1.56715609177e-16
+theta 1 : 0.0428972512435
+theta 2 : 0.0281188977431
+theta 3 : 0.04466378126
+theta 4 : 0.481615427748
+
+
+
+
+Value of Learned Parameters in case of regularized Gradient descent
+theta 0 : 1.55688100593e-16
+theta 1 : 0.042907617295
+theta 2 : 0.0282982595344
+theta 3 : 0.0448386763127
+theta 4 : 0.481155094804
+

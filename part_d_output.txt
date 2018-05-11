@@ -1,0 +1,32 @@
+Value of Learned Parameters in case of Mean Squared Error Function
+theta 0 : 1.5675670952e-16
+theta 1 : 0.0428972512372
+theta 2 : 0.0281188977059
+theta 3 : 0.044663781221
+theta 4 : 0.48161542781
+
+
+
+
+Value of Learned Parameters in case of Mean Absolute Error Function
+theta 0 : -0.156727209625
+theta 1 : 0.0478103073181
+theta 2 : 0.0533913653697
+theta 3 : 0.0511966029728
+theta 4 : 0.30418322099
+
+
+
+
+Value of Learned Parameters in case of Mean cube error function
+theta 0 : -7.02828794513
+theta 1 : -10.8798985407
+theta 2 : -4.26490807002
+theta 3 : -5.91002476329
+theta 4 : -7.87522622031
+
+
+
+
+For the dataset we should  mean square error as it gives low RMSE value
+Please refer Plots for reference
